@@ -1,10 +1,10 @@
 # Project Name
 Natours
 ## Description
-Natours is a Fullstack web app to booking tours 
+Natours is a Backend web app to booking tours 
 
 ## Technologies Used
-build with Nodejs , express , mongodb ,mongoose as odm , Pug for server side rendaring , html ,css , Typescript And Postman to test APIs
+build with Nodejs , express , mongodb ,mongoose as odm  ,javaScript And Postman to test APIs
 
 ## Features and Functionality
   ### User
